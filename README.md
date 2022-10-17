@@ -1,2 +1,2 @@
 # ece385
-summer 2022
+fall 2022
